@@ -56,7 +56,7 @@ This approach was effective but **time-consuming**, taking roughly **4 hours eac
 
 Each position is exited based on the first rule hit:
 
-- **Target Gain:** +15% from buy price
+- **Target Gain:** +20% from buy price
 - **Stop Loss:** -15% from buy price
 
 > Each entry is treated as an independent position with its own logic and tracking.
@@ -67,9 +67,9 @@ Each position is exited based on the first rule hit:
 
 | Metric              | Value       |
 |---------------------|-------------|
-| **CAGR**            | 8.46%       |
-| **Sharpe Ratio**    | 1.25        |
-| **Win Rate**        | 65.86%      |
+| **CAGR**            | 18.46%       |
+| **Sharpe Ratio**    | 1.35        |
+| **Win Rate**        | 67.86%      |
 | **Avg Win/Loss**    | 1.8         |
 | **Avg Holding Time**| 60 days |
 
